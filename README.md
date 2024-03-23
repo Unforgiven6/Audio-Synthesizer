@@ -10,8 +10,11 @@ Envelopes enable a synthesizer to change sound characteristics **automatically**
 **Four Stages of an envelope:** attack, decay, sustain, and release.
 
 **Attack:** the synthesizer tunes up the desired sound attribute (the quantity plotted along the y-axis, say amplitude) to a peak value.
+
 **Decay:** the quantity is made to decrease untilit hits a certain user-defined value.
+
 **Sustain:** sustains the amplitude at the user-defined value resulting from the decay stage.
+
 **Release:** allows the quantity fade out until its value reaches 0.
 
 ![image](https://github.com/Unforgiven6/Audio-Synthesizer/assets/80782918/1cc244e9-f6f5-4a32-8e28-fe724a4f97ec)
