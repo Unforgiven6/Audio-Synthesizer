@@ -4,7 +4,7 @@ Generate time vector: We create a time vector t using linspace() that spans the 
 Generate sine wave: Using the formula for a sine wave, we generate the waveform sine_wave.
 Plot the waveform: Finally, we use plot() to visualize the generated sine wave.
 
-Designing Filters
+Implementing a Linear Filter
 Define filter parameters: Specify the sampling frequency, initial cutoff frequency, and filter type ('low' for a low-pass filter).
 Design the filter: Use the designfilt() function from the Signal Processing Toolbox to design a low-pass FIR filter with the specified parameters.
 Generate a noisy signal: Create an example signal with noise for demonstration purposes.
