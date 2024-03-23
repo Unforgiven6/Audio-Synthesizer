@@ -1,0 +1,12 @@
+Generating Waveforms
+Define parameters: We specify the sampling frequency, duration of the waveform, and frequency of the sine wave.
+Generate time vector: We create a time vector t using linspace() that spans the duration of the waveform.
+Generate sine wave: Using the formula for a sine wave, we generate the waveform sine_wave.
+Plot the waveform: Finally, we use plot() to visualize the generated sine wave.
+
+Designing Filters
+Define filter parameters: Specify the sampling frequency, initial cutoff frequency, and filter type ('low' for a low-pass filter).
+Design the filter: Use the designfilt() function to design a low-pass FIR filter with the specified parameters.
+Generate a noisy signal: Create an example signal with noise for demonstration purposes.
+Apply the filter: Use the designed filter to filter the noisy signal.
+Plot original and filtered signals: Visualize the original and filtered signals using plot().
