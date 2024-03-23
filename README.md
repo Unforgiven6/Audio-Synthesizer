@@ -15,4 +15,4 @@ Envelopes enable a synthesizer to change sound characteristics **automatically**
 
 ![image](https://github.com/Unforgiven6/Audio-Synthesizer/assets/80782918/1cc244e9-f6f5-4a32-8e28-fe724a4f97ec)
 
-**Plan:** Using MATLAB, write a code to design a synthesizer.
+**Plan:** Using MATLAB, write a code to design a synthesizer. Choose an oscillator waveform and add to it a linear filter with adjustable parameters to obtain different sounds.
