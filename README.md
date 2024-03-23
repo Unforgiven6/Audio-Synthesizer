@@ -8,6 +8,7 @@ An x-y plot that shows how any given attribute of the output signal (such as pit
 Envelopes enable a synthesizer to change sound characteristics **automatically** over time, unlike sliders that need to be varied manually.
 
 **Four Stages of an envelope:** attack, decay, sustain, and release.
+
 **Attack:** the synthesizer tunes up the desired sound attribute (the quantity plotted along the y-axis, say amplitude) to a peak value.
 **Decay:** the quantity is made to decrease untilit hits a certain user-defined value.
 **Sustain:** sustains the amplitude at the user-defined value resulting from the decay stage.
